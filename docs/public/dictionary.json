@@ -185,7 +185,8 @@
     "This is a very quick event": "Hau ekitaldi oso azkarra da",
     "Elurrera Aralarren": "Elurrera Aralarren",
     "Igoa eta Aizarotz": "Igoa eta Aizarotz",
-    "Igoa eta Aizarotz ezagutu": "Igoa eta Aizarotz ezagutu"
+    "Igoa eta Aizarotz ezagutu": "Igoa eta Aizarotz ezagutu",
+    "San Antón": "San Anton"
   },
   "Castellano:es": {
     "Albiasu": "Albiasu",
@@ -373,7 +374,8 @@
     "This is a very quick event": "Este es un evento muy breve",
     "Elurrera Aralarren": "Elurrera Aralarren",
     "Igoa eta Aizarotz": "Igoa y Aizarotz",
-    "Igoa eta Aizarotz ezagutu": "Conoce Igoa y Aizarotz"
+    "Igoa eta Aizarotz ezagutu": "Conoce Igoa y Aizarotz",
+    "San Antón": "San Antón"
   },
   "Català:ca": {
     "Albiasu": "Albiasu",
@@ -561,7 +563,8 @@
     "This is a very quick event": "Aquesta és una activitat molt breu",
     "Elurrera Aralarren": "Elurrera Aralarren",
     "Igoa eta Aizarotz": "Igoa i Aizarotz",
-    "Igoa eta Aizarotz ezagutu": "Descobreix Igoa i Aizarotz"
+    "Igoa eta Aizarotz ezagutu": "Descobreix Igoa i Aizarotz",
+    "San Antón": "Sant Antoni"
   },
   "English:en": {
     "Albiasu": "Albiasu",
@@ -749,7 +752,8 @@
     "This is a very quick event": "This is a very quick event",
     "Elurrera Aralarren": "Elurrera Aralarren",
     "Igoa eta Aizarotz": "Igoa and Aizarotz",
-    "Igoa eta Aizarotz ezagutu": "Get to know Igoa and Aizarotz"
+    "Igoa eta Aizarotz ezagutu": "Get to know Igoa and Aizarotz",
+    "San Antón": "San Antón"
   },
   "Français:fr": {
     "Albiasu": "Albiasu",
@@ -937,7 +941,8 @@
     "This is a very quick event": "Ceci est un événement très court",
     "Elurrera Aralarren": "Elurrera Aralarren",
     "Igoa eta Aizarotz": "Igoa eta Aizarotz",
-    "Igoa eta Aizarotz ezagutu": "Découvrir Igoa et Aizarotz"
+    "Igoa eta Aizarotz ezagutu": "Découvrir Igoa et Aizarotz",
+    "San Antón": "San Antón"
   },
   "Deutsch:de": {
     "Albiasu": "Albiasu",
@@ -1125,7 +1130,8 @@
     "Jesús Mª Sotil": "Jesús Mª Sotil",
     "Elurrera Aralarren": "Elurrera Aralarren",
     "Igoa eta Aizarotz": "Igoa eta Aizarotz",
-    "Igoa eta Aizarotz ezagutu": "Igoa eta Aizarotz kennenlernen"
+    "Igoa eta Aizarotz ezagutu": "Igoa eta Aizarotz kennenlernen",
+    "San Antón": "San Antón"
   },
   "Italiano:it": {
     "Albiasu": "Albiasu",
@@ -1313,7 +1319,8 @@
     "This is a very quick event": "Questo è un evento molto breve",
     "Elurrera Aralarren": "Elurrera Aralarren",
     "Igoa eta Aizarotz": "Igoa eta Aizarotz",
-    "Igoa eta Aizarotz ezagutu": "Conoscere Igoa e Aizarotz"
+    "Igoa eta Aizarotz ezagutu": "Conoscere Igoa e Aizarotz",
+    "San Antón": "San Anton"
   },
   "Português:pt": {
     "Albiasu": "Albiasu",
@@ -1501,7 +1508,8 @@
     "Jesús Mª Sotil": "Jesús Mª Sotil",
     "Elurrera Aralarren": "Elurrera Aralarren",
     "Igoa eta Aizarotz": "Igoa e Aizarotz",
-    "Igoa eta Aizarotz ezagutu": "Conhecer Igoa e Aizarotz"
+    "Igoa eta Aizarotz ezagutu": "Conhecer Igoa e Aizarotz",
+    "San Antón": "San Antón"
   },
   "Română:ro": {
     "Albiasu": "Albiasu",
@@ -1689,7 +1697,8 @@
     "This is a very quick event": "Acesta este un eveniment foarte scurt",
     "Elurrera Aralarren": "Elurrera Aralarren",
     "Igoa eta Aizarotz": "Igoa și Aizarotz",
-    "Igoa eta Aizarotz ezagutu": "Cunoaște-I pe Igoa și Aizarotz"
+    "Igoa eta Aizarotz ezagutu": "Cunoaște-I pe Igoa și Aizarotz",
+    "San Antón": "San Antón"
   },
   "العربية:ar": {
     "Albiasu": "ألبياسو",
@@ -1877,7 +1886,8 @@
     "This is a very quick event": "هذا حدث سريع جدًا",
     "Elurrera Aralarren": "إلورا أرالارين",
     "Igoa eta Aizarotz": "إيجوا و أيزاروتز",
-    "Igoa eta Aizarotz ezagutu": "التعرف على إيجوا وأيزاروتز"
+    "Igoa eta Aizarotz ezagutu": "التعرف على إيجوا وأيزاروتز",
+    "San Antón": "سان أنطون"
   },
   "Български:bg": {
     "Albiasu": "Albiasu",
@@ -2065,6 +2075,7 @@
     "This is a very quick event": "Това е много кратко събитие",
     "Elurrera Aralarren": "Elurrera Aralarren",
     "Igoa eta Aizarotz": "Igoa eta Aizarotz",
-    "Igoa eta Aizarotz ezagutu": "Запознайте се с Igoa и Aizarotz"
+    "Igoa eta Aizarotz ezagutu": "Запознайте се с Igoa и Aizarotz",
+    "San Antón": "Сан Антон"
   }
 }
